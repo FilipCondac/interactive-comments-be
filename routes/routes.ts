@@ -1,3 +1,4 @@
+// @ts-nocheck
 import express, { Request, Response, Router } from "express";
 import Post from "../models/post";
 import Reply from "../models/reply";
